@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Scribbles</title>
+    <link>http://jay-chin.github.io/post/</link>
+    <description>Recent content in Posts on Scribbles</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Apr 2016 16:55:42 +0100</lastBuildDate>
+    <atom:link href="http://jay-chin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>first post</title>
+      <link>http://jay-chin.github.io/post/first-post/</link>
+      <pubDate>Fri, 29 Apr 2016 16:55:42 +0100</pubDate>
+      
+      <guid>http://jay-chin.github.io/post/first-post/</guid>
+      <description>
+
+&lt;h3 id=&#34;hugo-is-nice&#34;&gt;Hugo is nice !&lt;/h3&gt;
+
+&lt;p&gt;Blog and first post created with Hugo&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
